@@ -17,6 +17,7 @@ This is my solution to the [Social proof section challenge on Frontend Mentor](h
   - [What I Learned](#what-i-learned)
   - [Continued Development](#continued-development)
   - [Useful Resources](#useful-resources)
+- [Style Guide](style-guide.md)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -82,6 +83,10 @@ Moving forward, I plan to:
 
 - [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A great resource that helped me master flexbox for responsive layouts.
 - [MDN Web Docs on Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) - This documentation was helpful for ensuring the layout adapts correctly across devices.
+
+## Style Guide
+
+For the style guidance refer to [Style Guide](style-guide.md)
 
 ## Author
 
