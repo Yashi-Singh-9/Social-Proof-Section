@@ -1,7 +1,7 @@
 # Frontend Mentor - Social Proof Section Solution
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/362741c4-e35f-45ae-b304-b07b6a4fbbf2/deploy-status)](https://app.netlify.com/sites/social-proof-section-solutions/deploys)
-![Last commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Social-Proof-Section)
+![Last Update](https://img.shields.io/github/last-commit/Yashi-Singh-9/Social-Proof-Section?label=Last%20Update&cache=0)
 ![GitLab license](https://img.shields.io/gitlab/license/Yashi-Singh-9/social-proof-section?style=for-the-badge)
 
 This is my solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help improve coding skills by working on real-world projects.
