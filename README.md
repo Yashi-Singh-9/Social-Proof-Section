@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/362741c4-e35f-45ae-b304-b07b6a4fbbf2/deploy-status)](https://app.netlify.com/sites/social-proof-section-solutions/deploys)
 ![Last Update](https://img.shields.io/github/last-commit/Yashi-Singh-9/Social-Proof-Section?label=Last%20Update&cache=0)
-![GitLab license](https://img.shields.io/gitlab/license/Yashi-Singh-9/social-proof-section?style=for-the-badge)
+![Github license](https://img.shields.io/github/license/Yashi-Singh-9/social-proof-section?style=for-the-badge)
 
 This is my solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help improve coding skills by working on real-world projects.
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/social-proof-section-igu7Sy513p)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-proof-section-5j45w4cAJ2)
 - [Live Site URL](https://social-proof-section-solutions.netlify.app)
 
 ## My Process
@@ -91,7 +91,7 @@ For the style guidance refer to [Style Guide](style-guide.md)
 ## Author
 
 - LinkedIn - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
-- Frontend Mentor - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
+- Frontend Mentor - [@Yashi-Singh-9](https://www.frontendmentor.io/profile/Yashi-Singh-9)
 
 ## Acknowledgments
 
